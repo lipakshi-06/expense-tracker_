@@ -9,3 +9,6 @@ Key Reasons:
 - Savings Improvement – When spending is managed properly, users can save more money for future goals.
 - Record Maintenance – It serves as a digital record of transactions that can be referenced anytime, reducing dependency on memory.
 - Goal Setting – Helps users align spending habits with financial goals (e.g., buying a gadget, education expenses, emergency fund).
+
+output image-
+<img width="750" height="612" alt="image" src="https://github.com/user-attachments/assets/429cd282-681e-45fe-af95-9b357cad5d72" />
