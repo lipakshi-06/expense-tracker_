@@ -38,7 +38,7 @@ def add_expense():
     
     conn = sqlite3.connect(DB)
     cur = conn.cursor()
-    cur.execute("INSERT INTO expenses (description, amount, category, date) VALUES (?,?,?,?)"
+    cur.execute("INSERT INTO expenses (description, amount, category, date) VALUES (?,?,?,?)",
                 (desc, amount, category, date))
     conn.commit()
     conn.close()
@@ -129,4 +129,5 @@ app.mainloop()
      
     
     
+
     
